@@ -1,5 +1,5 @@
 # 🦥 **Simulateur D'écosystème en C++**
-Ce projet utilise les notions de programmation orientée objet en C++ et de SDL3 pour créer une simulation d'un écosystème naturel
+Ce projet utilise les notions de programmation orientée objet en C++ et de SDL3 pour créer une simulation d'un écosystème vituel
 
 # 👨‍💻 **Auteur**
 Ce projet a été réalisé dans le cadre d'un exercice sous la supervision de `Mr. TEUGUIA Rodolf` par l'étudiant:  
